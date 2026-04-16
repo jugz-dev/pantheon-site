@@ -84,7 +84,7 @@ export default function CallToAction() {
       <div className="mx-auto text-center relative z-10 pointer-events-none">
         <div className="overflow-hidden">
           <h2 className="reveal-text text-5xl md:text-7xl font-bold uppercase leading-tight text-white font-cinzel">
-            ALL IN SA BLACK
+            ALL IN SA BLACK, FOCUSED G!
           </h2>
         </div>
 
