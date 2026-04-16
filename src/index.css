@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;800;900&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "UniNeue", sans-serif;
+}
+
+.font-cinzel {
+  font-family: "Cinzel", serif;
+}
+
+.font-sans {
+  font-family: "UniNeue", sans-serif;
+}
+
+@font-face {
+  font-family: "UniNeue";
+  src: url("/fonts/UniNeue-Trial-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UniNeue";
+  src: url("/fonts/UniNeue-Trial-RegularItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UniNeue";
+  src: url("/fonts/UniNeue-Trial-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UniNeue";
+  src: url("/fonts/UniNeue-Trial-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UniNeue";
+  src: url("/fonts/UniNeue-Trial-ThinItalic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UniNeue";
+  src: url("/fonts/UniNeue-Trial-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
